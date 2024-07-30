@@ -53,6 +53,7 @@
   border: none;
   margin-left: 73px;
   margin-top: 49px;
+  text-align: center;
 }
 
 .itens-card input::placeholder {
@@ -60,6 +61,7 @@
   color: #00BCD4;
   font-weight: bold;
   padding-left: 30px;
+  text-align: left;
 }
 
 .button-send {
